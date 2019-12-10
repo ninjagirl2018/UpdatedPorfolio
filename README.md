@@ -11,3 +11,6 @@ https://ninjagirl2018.github.io/UpdatedPorfolio/
 
 
 
+NB
+
+Per discussions with Edward Apostol, it was agreed that it is acceptable that there will be no link to the developer's LinkedIn profile to the Updated Portfolio at this time.  This is for reasons of possible professional conflict.
