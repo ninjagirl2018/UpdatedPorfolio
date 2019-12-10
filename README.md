@@ -11,6 +11,3 @@ https://ninjagirl2018.github.io/UpdatedPorfolio/
 
 
 
-
-/Users/DevEnvironment/Projects/Homework/UpdatedPorfolio/assets/images/UpdatedPortfolio.png
-
